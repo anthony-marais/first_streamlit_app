@@ -50,7 +50,7 @@ except ULRError as e:
 
 
 
-streamlit.stop()
+#streamlit.stop()
 
 
 streamlit.header('The fruit load list contains:')
